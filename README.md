@@ -1,4 +1,4 @@
-# Image-Operations
+# Basic Image-Operations
 Basics operations on Images using Numpy
 
 Operations are:
