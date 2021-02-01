@@ -12,4 +12,4 @@ Translate,
 rotate,
 Edge Detection
 
-ir_test folder contains the sample testing images
+<b>ir_test<b> folder contains the sample testing images
