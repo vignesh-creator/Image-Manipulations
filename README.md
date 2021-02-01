@@ -1,2 +1,11 @@
 # Image-Operations
-Basics operations Rescale,Resize,crop,blur,Rgb2gray,Translate,rotate,Edge Detection
+Basics operations on Images using Numpy
+Operations
+Rescale
+Resize
+crop
+blur
+Rgb2gray
+Translate
+rotate
+Edge Detection
