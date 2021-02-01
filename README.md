@@ -11,3 +11,5 @@ Rgb2gray,
 Translate,
 rotate,
 Edge Detection
+
+ir_test folder contains the sample testing images
