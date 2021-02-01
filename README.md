@@ -1,6 +1,8 @@
 # Image-Operations
 Basics operations on Images using Numpy
-Operations
+
+Operations are:
+
 Rescale
 Resize
 crop
